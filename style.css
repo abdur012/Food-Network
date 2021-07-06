@@ -48,8 +48,7 @@ margin2{
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
-    margin-bottom: 50px;
-    
+    margin-bottom: 50px;  
 }
 .img1{
     width: 320px;
@@ -68,7 +67,6 @@ margin2{
     color: #706C6D;
 }
 .middle{
-  
     color:black;
     width: 600px;
     height: 50px;
@@ -76,7 +74,6 @@ margin2{
     text-align: center;
     color: #676767;
     font-size: 13px;
-    
 }
 .middle-heading{
     text-align: center;
@@ -86,7 +83,6 @@ margin2{
     overflow: hidden;
     width: 100%;
 }
-
 .wrapper{
 	width:100%;
 	margin:50px auto;
@@ -115,12 +111,10 @@ margin2{
     border-radius: 25px;
     box-shadow: 10px 10px 30px gray;
     margin-bottom: 120px;
-
 }
 .margin-left{
     margin-left: 77px;
 }
-
 footer{
     width: 100%;
     height: 190px;
